@@ -1,0 +1,6 @@
+[submodule "GHS-distributed-algorithm"]
+	path = GHS-distributed-algorithm
+	url = https://github.com/navidakbari123/GHS-distributed-algorithm.git
+[submodule "Map-Reducer-distributed-algorithm"]
+	path = Map-Reducer-distributed-algorithm
+	url = https://github.com/navidakbari123/Map-Reducer-distributed-algorithm.git
